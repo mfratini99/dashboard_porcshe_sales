@@ -104,27 +104,6 @@ A proposta foi combinar a estética premium da marca com uma interface voltada �
 
 ---
 
-## 📁 Estrutura do projeto
-
-```text
-porsche-sales-dashboard/
-│
-├── desafio 4.xlsx
-├── porsche_sales_dashboard.html
-└── README.md
-```
-
-### `desafio 4.xlsx`
-
-Base de dados utilizada para a análise de vendas.
-
-### `porsche_sales_dashboard.html`
-
-Dashboard interativa desenvolvida em HTML, CSS e JavaScript.
-
-### `README.md`
-
-Documentação e descrição do projeto.
 
 ---
 
@@ -136,7 +115,7 @@ Não é necessário instalar nenhuma ferramenta específica.
 2. Abra o arquivo:
 
 ```text
-porsche_sales_dashboard.html
+index.html
 ```
 
 3. O dashboard será carregado diretamente no navegador.
@@ -163,7 +142,7 @@ O projeto também demonstra conhecimentos em:
 
 ## 📷 Dashboard
 
-> A dashboard pode ser executada diretamente pelo arquivo `porsche_sales_dashboard.html`.
+> A dashboard pode ser executada diretamente pelo arquivo `index.html`.
 
 ---
 
