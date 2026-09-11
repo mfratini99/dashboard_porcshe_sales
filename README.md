@@ -109,13 +109,10 @@ A proposta foi combinar a estética premium da marca com uma interface voltada �
 
 ## 🚀 Como executar
 
-Não é necessário instalar nenhuma ferramenta específica.
+Abra o link.
 
-1. Faça o download ou clone este repositório.
-2. Abra o arquivo:
-
-```text
-index.html
+```
+[index.html](https://mfratini99.github.io/dashboard_porcshe_sales/)
 ```
 
 3. O dashboard será carregado diretamente no navegador.
@@ -142,7 +139,7 @@ O projeto também demonstra conhecimentos em:
 
 ## 📷 Dashboard
 
-> A dashboard pode ser executada diretamente pelo arquivo `index.html`.
+> A dashboard pode ser executada diretamente pelo link `https://mfratini99.github.io/dashboard_porcshe_sales/`.
 
 ---
 
