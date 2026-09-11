@@ -112,7 +112,7 @@ A proposta foi combinar a estética premium da marca com uma interface voltada �
 Abra o link.
 
 ```
-[index.html](https://mfratini99.github.io/dashboard_porcshe_sales/)
+(https://mfratini99.github.io/dashboard_porcshe_sales/)
 ```
 
 3. O dashboard será carregado diretamente no navegador.
